@@ -1,0 +1,17 @@
+{
+  "name": "hopfion-n63-ku002-data-09",
+  "bytes": 48365050,
+  "modes": [
+    {
+      "configuration": "A8,1",
+      "mode": 10
+    }
+  ],
+  "assets": [
+    {
+      "file": "data/a8-1/mode_10.js",
+      "bytes": 48365050,
+      "sha256": "4ef3073504b3698db523c3cb0caa48d544eaa91ab08bfc923a21c9663103ea99"
+    }
+  ]
+}
